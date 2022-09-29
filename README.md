@@ -268,13 +268,13 @@
       </p>
     <h2>Contact</h2>
     <p>
-    If you have any questions, please contact MasatoKubotera, the product's designer, by E-mail.<br><br>
-    E-mail : <a href="mailto:masatokubotera06@yahoo.co.jp?subject=Questions about EN715 Expansion Board Ver. 1.0">masatokubotera06@yahoo.co.jp</a>
+    If you have any questions, please contact MasatoKubotera, the product's designer, by E-mail.<br>
+    E-mail : <a href="mailto:masatokubotera06@yahoo.co.jp">masatokubotera06@yahoo.co.jp</a>
     </p>
     <h2>License Information</h2>
     <p>
       This product is open source.<br>
-      Please review the <a href="https://github.com/MasatoKubotera/EN715_ExpansionBoard_ver1_0/blob/master/LICENSE">LICENSE file</a> for license information.<br>
+      Please review the <a href="/LICENSE">LICENSE file</a> for license information.<br>
       <br>
       <strong>EN715 Expansion Board Ver. 1.0</strong> by Masato Kubotera is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
     </p>    
